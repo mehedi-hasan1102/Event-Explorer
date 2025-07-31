@@ -56,8 +56,8 @@ Event Explorer is a modern, full-featured web application that helps users find,
 
 ### 1. Clone & Install  
 ```bash
-git clone https://github.com/HasanCodeX/HasanCodeX-Project---web-b11-A9-Event-Explorer.git
-cd event-explorer-app
+git clone https://github.com/mehedi-hasan1102/Event-Explorer
+cd Event-Explorer
 npm install
 ```
 2. Configure Firebase
@@ -111,7 +111,7 @@ Open a Pull Request
 This project is currently unlicensed. For usage rights, please contact the author.
 
 📬 Contact
-Maintainer: https://github.com/HasanCodeX
+Maintainer: https://github.com/mehedi-hasan1102
 💡 Issues? Open a GitHub issue or reach out!
 
 Why Choose Event Explorer?
